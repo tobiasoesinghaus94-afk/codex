@@ -1,0 +1,16 @@
+/* Logo-PDF: dominante Flächenfarben #C9E3C0 und #9FC98A.
+   Dunkle Text- und Funktionsfarben sind daraus abgeleitete Gestaltungswerte,
+   keine behaupteten verbindlichen Styleguide-Vorgaben. Systemschriften als Fallback. */
+:root {
+  --ink: #202a24;
+  --paper: #f7f9f4;
+  --lime: #c9e3c0;
+  --brand-green: #9fc98a;
+  --olive: #486638;
+  --muted: #5d6858;
+  --line: #d8ddcf;
+  --focus: #b86a28;
+  --font: "Arial", "Helvetica Neue", sans-serif;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  --gutter: 6.5vw;
+}
